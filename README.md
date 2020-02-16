@@ -10,8 +10,8 @@ Since the whole dataset is huge, here we only provide sample datasets.
 
 
 # Requirements for Reproducibility
-Cuda 9.2
-pytorch 0.4.1
-Python 3.6.7
-Devices: NVIDIA GTX 1080 GPUs
-System: Ubuntu 16.04
+- Cuda 9.2
+- pytorch 0.4.1
+- Python 3.6.7
+- Devices: NVIDIA GTX 1080 GPUs
+- System: Ubuntu 16.04
