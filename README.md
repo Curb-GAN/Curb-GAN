@@ -23,4 +23,5 @@ Just take traffic speed estimation as an example:
 1. `cd traffic_speed_estimation/`.
 2. Running the codes: `python train.py`. (The parameters are defined in train.py)
 3. The parameters of the trained model will be saved in to traffic_speed_estimation//CurbGAN_train.
+
 The training process for taxi inflow estimation is similar.
